@@ -8,3 +8,6 @@ Notrable upgrades:
 
 * SKR Mini E3 v3 (main MCU)
 * KlackEnder/3D Touch (Swappable with 3D touch preffered)
+* Minimus hotend cooling system with Noctua cooling fan
+* Vertical PSU (Allowing for mounting of additional components under the printer)
+* Volcano nozzle for hig temp/speed printing
